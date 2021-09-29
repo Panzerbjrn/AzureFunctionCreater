@@ -1,0 +1,17 @@
+Create-AzureFunction:BaseName
+Create-AzureFunction:Location
+Create-AzureFunction:StorageSku
+Create-AzureFunction:Logfile
+Create-AzureFunction:Verbose
+Create-AzureFunction:Debug
+Create-AzureFunction:ErrorAction
+Create-AzureFunction:WarningAction
+Create-AzureFunction:InformationAction
+Create-AzureFunction:ErrorVariable
+Create-AzureFunction:WarningVariable
+Create-AzureFunction:InformationVariable
+Create-AzureFunction:OutVariable
+Create-AzureFunction:OutBuffer
+Create-AzureFunction:PipelineVariable
+Create-AzureFunction:Confirm
+Create-AzureFunction:WhatIf
